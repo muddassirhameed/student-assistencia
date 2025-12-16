@@ -11,7 +11,7 @@
 Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
-    git clone https://github.com/MuddassirHymeed/student-assistencia
+    git clone https://github.com/muddassirhameed/student-assistencia
 
 2. **Install frontend dependencies**:
     - Download `Nodejs` : `v20.14.0`
@@ -34,7 +34,7 @@ Follow these steps to set up the project locally:
 
 ## Contact
 6. For any inquiries or issues, please contact:
-- Your Name - [Muddassir Hymeed](mailto:mhk.csit@gmail.com)
+- Your Name - [Muddassir Hameed](mailto:mhk.csit@gmail.com)
 - Your Name - [Mehran Khan](mailto:m3hr4nkh4n1047@gmail.com)
 
 **thanks**
